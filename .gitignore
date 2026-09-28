@@ -1,0 +1,4 @@
+wandb
+data
+.env
+__pycache__
